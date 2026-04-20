@@ -22,15 +22,8 @@ The infrastructure is monitored in real-time, providing high visibility into sys
 - **Service Stability:** Ensured Zabbix Agent is active and persistent with PID management.
 
 ## 📸 Screenshots
-
 ### Infrastructure View (Proxmox)
-![Proxmox Dashboard](Capture%20d'écran%202026-04-20%20201805.png)
+![Proxmox](proxmox.png)
 
-### Zabbix Monitoring Hosts
-![Zabbix Hosts](Capture%20d'écran%202026-04-20%20201818.png)
-
-### Performance Metrics
-![Zabbix Performance](Capture%20d'écran%202026-04-20%20201829.png)
-
-### Initial Network Design
-![Network Design](Capture%20d'écran%202026-04-20%20201838.jpg)
+### Monitoring Dashboard (Zabbix)
+![Zabbix](zabbix.png)
