@@ -23,7 +23,7 @@ The infrastructure is monitored in real-time, providing high visibility into sys
 
 ## 📸 Screenshots
 ### Infrastructure View (Proxmox)
-![Proxmox Infrastructure](images/proxmox_dashboard.png)
+![Proxmox](proxmox.png)
 
 ### Monitoring Dashboard (Zabbix)
-![Zabbix Hosts](images/zabbix_hosts.png)
+![Zabbix](zabbix.png)
